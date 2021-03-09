@@ -1,0 +1,5 @@
+#include <stdio.h>
+int main (){
+printf ("Hello world");  /*we are trying to print*/
+return 0; //No return    // we are trying to print
+}
